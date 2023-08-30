@@ -1,2 +1,2 @@
 # Kryptologie
-UTB úkoly
+Úkoly do kryptologie - šifry s GUI.
