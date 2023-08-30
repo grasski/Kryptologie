@@ -1,5 +1,5 @@
 # Kryptologie
-Úkoly do kryptografie. Šifry s GUI.
+Úkoly do kryptologie - šifry s GUI.
 
 ![image](https://github.com/grasski/Kryptologie/assets/34042457/2daba056-39bd-458c-9891-a18096c45c24)
 
