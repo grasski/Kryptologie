@@ -1,3 +1,5 @@
+# Autor: Jiří Daberger
+
 import math
 import string
 import numpy as np
