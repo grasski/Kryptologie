@@ -1,3 +1,5 @@
+# Autor: Jiří Daberger
+
 import PySimpleGUI as sg
 from PIL import Image
 import io
