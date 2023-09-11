@@ -1,3 +1,5 @@
+# Autor: Jiří Daberger
+
 import random
 import math
 import base64
