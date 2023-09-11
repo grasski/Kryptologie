@@ -1,3 +1,5 @@
+# Autor: Jiří Daberger
+
 import hashlib
 import os
 import rsa
