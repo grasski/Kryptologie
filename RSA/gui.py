@@ -1,3 +1,5 @@
+# Autor: Jiří Daberger
+
 import PySimpleGUI as sg
 import supportFunctions as sf
 import clipboard
