@@ -1,3 +1,5 @@
+# Autor: Jiří Daberger
+
 import io
 from PIL import Image
 
