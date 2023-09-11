@@ -1,3 +1,5 @@
+# Autor: Jiří Daberger
+
 import math
 import PySimpleGUI as sg
 import numpy as np
